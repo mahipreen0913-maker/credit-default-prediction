@@ -4,7 +4,7 @@ A machine learning project predicting whether a credit card client will default
 on payment, using the UCI "Default of Credit Card Clients" dataset (30,000
 accounts, Taiwan, 2005).
 
-**[Open the notebook in Colab]([your Colab share link])**
+**[Open the notebook in Colab]([[your Colab share link]](https://colab.research.google.com/drive/1wTHgMjmDFR-YkPRcwX9Gr9lY3E_QOnd5?usp=sharing)**
 
 ## Objective
 
